@@ -27,7 +27,6 @@ st.write("Find similar historical tickets and get resolution suggestions.")
 
 data_path = os.path.join(
     os.path.dirname(__file__),
-    "data",
     "tickets.json"
 )
 
